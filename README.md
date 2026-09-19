@@ -98,11 +98,11 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mabdesigns&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z3rokernel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mabdesigns&theme=dark&hide_border=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=z3rokernel&theme=dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mabdesigns&theme=dark&hide_border=true&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z3rokernel&theme=dark&hide_border=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -112,7 +112,7 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=mabdesigns&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)
+![Trophies](https://github-profile-trophy.vercel.app/?username=z3rokernel&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)
 
 </div>
 
@@ -122,7 +122,7 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mabdesigns&theme=react-dark&hide_border=true&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=z3rokernel&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -132,7 +132,7 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/mabdesigns/mabdesigns/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/z3rokernel/mabdesigns/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
