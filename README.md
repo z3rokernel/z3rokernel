@@ -97,8 +97,8 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 ## 📊 GitHub Stats
 
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=z3rokernel)](https://git.io/streak-stats)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=z3rokernel&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+  
+![GitHub Streak](https://streak-stats.demolab.com?user=z3rokernel)](https://git.io/streak-stats)
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mabdesigns&theme=dark&hide_border=true)
 
