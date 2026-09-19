@@ -107,6 +107,19 @@ Full-Stack Web Developer with **7+ years of experience** building performant, sc
 
 ###
 
+<h2 data-importer="text" align="left">🎓 Education</h2>
+
+| Degree | Institution | Year |
+|--------|------------|------|
+| **Master — Intelligent Computer Systems** | Université Chadli Bendjedid, Algeria | 2022–2024 |
+| **Licence — Computer Systems** | Université Chadli Bendjedid, Algeria | 2019–2022 |
+
+📄 **Master's Thesis:** [*Towards a Deep Learning-Based E-learning Platform*](https://github.com/MABDesigns) — AI-driven personalized course recommendation & automatic exercise generation.
+
+###
+
+###
+
 <h2 data-importer="text" align="left">📊 GitHub Stats</h2>
 
 ###
