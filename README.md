@@ -1,168 +1,26 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mostepha Amine BDEIRA</h1>
+<h3 align="center">Full-Stack Web Developer with **7+ years of experience** building performant, scalable web applications — primarily with **CodeIgniter 4** and **Laravel**. I cover the entire development chain: database design, PHP back-end, responsive front-end, server administration, and SEO.</h3>
 
-# Bdeira Mostepha Amine
-### Full-Stack Web Developer · MSc AI Systems
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=z3rokernel&label=Profile%20views&color=0e75b6&style=flat" alt="z3rokernel" /> </p>
 
-[![Email](https://img.shields.io/badge/Email-bdeiramostephamine%40pm.me-blue?style=flat-square&logo=protonmail&logoColor=white)](mailto:bdeiramostephamine@pm.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-m4b007-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/m4b007)
-[![Phone](https://img.shields.io/badge/Tel-0615218814-gray?style=flat-square&logo=phone&logoColor=white)](tel:0615218814)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=z3rokernel" alt="z3rokernel" /></a> </p>
 
-</div>
+<p align="left"> <a href="https://twitter.com/mbdeira" target="blank"><img src="https://img.shields.io/twitter/follow/mbdeira?logo=twitter&style=for-the-badge" alt="mbdeira" /></a> </p>
 
----
+- 🔭 I’m currently working on [Nutri Saha](nutri-saha.com)
 
-## 👨‍💻 About Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mbdeira" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mbdeira" height="30" width="40" /></a>
+<a href="https://instagram.com/m4b_007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m4b_007" height="30" width="40" /></a>
+</p>
 
-Full-Stack Web Developer with **7+ years of experience** building performant, scalable web applications — primarily with **CodeIgniter 4** and **Laravel**. I cover the entire development chain: database design, PHP back-end, responsive front-end, server administration, and SEO.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=z3rokernel&show_icons=true&locale=en&layout=compact" alt="z3rokernel" /></p>
 
-- 🏗️ Currently building: **nutri-saha.com** — full-stack nutrition platform
-- 🎓 Master's thesis: *Towards a Deep Learning-Based E-learning Platform* (AI-powered course recommendation & exercise generation)
-- 🌱 Tech I'm deepening: **CodeIgniter 4**, AI-assisted development, REST API integrations
-- 📂 Projects: [github.com/MABDesigns](https://github.com/MABDesigns)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=z3rokernel&show_icons=true&locale=en" alt="z3rokernel" /></p>
 
----
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=z3rokernel&" alt="z3rokernel" /></p>
 
-## 🛠️ Tech Stack
-
-**Back-end**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**Front-end**
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Tools & Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
----
-
-## 🚀 Notable Projects
-
-### 🥗 [Nutri-Saha](https://nutri-saha.com) — Digital Health Platform
-> Full-stack nutrition & dietary tracking platform for a health-tech startup
-
-- Built with **CodeIgniter 4**, **Tailwind CSS**, **MySQL**
-- Integrated third-party REST APIs (payments, push notifications, nutrition data)
-- Implemented SEO strategies that measurably improved organic visibility
-- Full ownership: architecture, UI/UX, server management, deployments via Git
-
----
-
-### 🛍️ [Shopping France](https://shoppingfrance.store) — E-commerce Platform
-> Female-focused online store with cash-on-delivery payment model
-
-- Built with **CodeIgniter 4**, **Tailwind CSS**, **MySQL**
-- Integrated SMS & transactional email APIs
-- Managed traffic acquisition via Facebook / Instagram
-- Full-stack ownership: architecture, UI/UX, front-end, back-end
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Year |
-|--------|------------|------|
-| **Master — Intelligent Computer Systems** | Université Chadli Bendjedid, Algeria | 2022–2024 |
-| **Licence — Computer Systems** | Université Chadli Bendjedid, Algeria | 2019–2022 |
-
-📄 **Master's Thesis:** [*Towards a Deep Learning-Based E-learning Platform*](https://github.com/z3rokernel) — AI-driven personalized course recommendation & automatic exercise generation.
-
-
----
-
-## 🌍 Languages
-
-🇩🇿 Arabic — Native &nbsp;|&nbsp; 🇬🇧 English — Fluent (C1) &nbsp;|&nbsp; 🇫🇷 French — Professional (C1)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=z3rokernel)](https://git.io/streak-stats)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=mabdesigns&theme=dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=z3rokernel&theme=dark&hide_border=true&layout=compact&langs_count=8)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=z3rokernel&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=7)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=z3rokernel&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/z3rokernel/z3rokernel/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## ✍️ Dev Quote of the Day
-
-<div align="center">
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 😂 Random Dev Meme
-
-<div align="center">
-
-<img src="https://fmzzj9.csb.app/" width="512px"/>
-
-</div>
-
----
-
-<div align="center">
-
-*Open to collaborations, freelance missions, and full-time remote opportunities.*
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=mabdesigns&icon=5&color=6)](https://visitcount.itsvg.in)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/m4bdesigns)
-
-</div>
