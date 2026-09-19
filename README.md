@@ -24,7 +24,14 @@
 
 ###
 
-<p data-importer="text" align="left">Full-Stack Web Developer with 7+ years of experience  building performant, scalable web applications — primarily with CodeIgniter 4 and Laravel. I cover the entire development chain: database design, PHP back-end, responsive front-end, server administration, and SEO.<br>- 🏗️ Currently building: **nutri-saha.com** — full-stack nutrition platform<br>- 🎓 Master's thesis: *Towards a Deep Learning-Based E-learning Platform* (AI-powered course recommendation & exercise generation)<br>- 🌱 Tech I'm deepening: **CodeIgniter 4**, AI-assisted development, REST API integrations</p>
+Full-Stack Web Developer with **7+ years of experience** building performant, scalable web applications — primarily with **CodeIgniter 4** and **Laravel**. I cover the entire development chain: database design, PHP back-end, responsive front-end, server administration, and SEO.
+
+
+- 🏗️ Currently building: **nutri-saha.com** — full-stack nutrition platform
+- 🎓 Master's thesis: *Towards a Deep Learning-Based E-learning Platform* (AI-powered course recommendation & exercise generation)
+- 🌱 Tech I'm deepening: **CodeIgniter 4**, AI-assisted development, REST API integrations
+- 📂 Projects: [github.com/MABDesigns](https://github.com/MABDesigns)
+
 
 ###
 
