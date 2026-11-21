@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" width="100%" height="280" role="img" aria-label="Mostepha Amine Bdeira — MABDEIRA.DEV Cybernetic HUD">
+  <defs>
+    <linearGradient id="voidGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05060A"/>
+      <stop offset="55%" stop-color="#0A0E17"/>
+      <stop offset="100%" stop-color="#05060A"/>
+    </linearGradient>
+    <linearGradient id="acidBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#D4FF1F" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#D4FF1F" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#2DE2E6" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#FFFFFF" stroke-opacity="0.04" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Base Void & Tech Grid -->
+  <rect width="1200" height="280" rx="16" fill="url(#voidGrad)"/>
+  <rect width="1200" height="280" rx="16" fill="url(#grid)"/>
+  <rect x="1.5" y="1.5" width="1197" height="277" rx="15" fill="none" stroke="#FFFFFF" stroke-opacity="0.12" stroke-width="1.5"/>
+
+  <!-- Subtle Radial Glows -->
+  <circle cx="180" cy="70" r="180" fill="#D4FF1F" fill-opacity="0.06"/>
+  <circle cx="1040" cy="220" r="200" fill="#2DE2E6" fill-opacity="0.06"/>
+
+  <!-- Corner HUD Reticles -->
+  <path d="M 24 44 L 24 24 L 44 24" fill="none" stroke="#D4FF1F" stroke-width="2.5"/>
+  <path d="M 1156 24 L 1176 24 L 1176 44" fill="none" stroke="#2DE2E6" stroke-width="2.5"/>
+  <path d="M 24 236 L 24 256 L 44 256" fill="none" stroke="#2DE2E6" stroke-width="2.5"/>
+  <path d="M 1156 256 L 1176 256 L 1176 236" fill="none" stroke="#D4FF1F" stroke-width="2.5"/>
+
+  <!-- Top Telemetry Bar -->
+  <circle cx="58" cy="48" r="5" fill="#D4FF1F" filter="url(#glow)">
+    <animate attributeName="opacity" values="1;0.25;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="74" y="52" fill="#D4FF1F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" font-weight="700" letter-spacing="2.5">
+    SYS.OPERATOR // @Z3ROKERNEL — ONLINE
+  </text>
+  <text x="1144" y="52" text-anchor="end" fill="#8A94A6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="12" letter-spacing="1.8">
+    45.7640° N, 4.8357° E // LYON, FRANCE
+  </text>
+
+  <!-- Animated Scanline Beam -->
+  <rect x="48" y="68" width="1104" height="1.5" fill="url(#acidBeam)">
+    <animate attributeName="opacity" values="0.35;0.95;0.35" dur="4s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Main Display Title -->
+  <text x="56" y="138" fill="#FFFFFF" font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="52" font-weight="900" letter-spacing="2">
+    MOSTEPHA AMINE <tspan fill="#D4FF1F">BDEIRA</tspan>
+  </text>
+
+  <!-- Subtitle & Role -->
+  <text x="58" y="176" fill="#2DE2E6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="700" letter-spacing="2">
+    FULL-STACK PHP (CI4 / LARAVEL) · SQL ARCHITECT · QA SPECIALIST · AI SYSTEMS
+  </text>
+
+  <!-- Bottom HUD Pills -->
+  <g transform="translate(56, 206)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="11" font-weight="700">
+    <rect x="0" y="0" width="158" height="30" rx="15" fill="#D4FF1F" fill-opacity="0.12" stroke="#D4FF1F" stroke-opacity="0.6"/>
+    <text x="79" y="19" text-anchor="middle" fill="#D4FF1F">8+ YRS FREELANCE</text>
+
+    <rect x="172" y="0" width="176" height="30" rx="15" fill="#2DE2E6" fill-opacity="0.10" stroke="#2DE2E6" stroke-opacity="0.5"/>
+    <text x="260" y="19" text-anchor="middle" fill="#2DE2E6">30+ PROJECTS SHIPPED</text>
+
+    <rect x="362" y="0" width="214" height="30" rx="15" fill="#7B5CFF" fill-opacity="0.15" stroke="#7B5CFF" stroke-opacity="0.6"/>
+    <text x="469" y="19" text-anchor="middle" fill="#C4B5FD">MASTER LEVEL 7 (AI)</text>
+
+    <rect x="590" y="0" width="208" height="30" rx="15" fill="#FFFFFF" fill-opacity="0.06" stroke="#FFFFFF" stroke-opacity="0.2"/>
+    <text x="694" y="19" text-anchor="middle" fill="#E5E7EB">POSTMAN &amp; PHPUNIT QA</text>
+  </g>
+
+  <!-- Right Corner Terminal Prompt -->
+  <text x="1144" y="225" text-anchor="end" fill="#8A94A6" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13">
+    root@mabdeira.dev:~# ./boot.sh<tspan fill="#D4FF1F">_<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></tspan>
+  </text>
+</svg>
